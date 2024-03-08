@@ -40,8 +40,8 @@ Skriva bash skripter för att automatiskt bevaka kommande datatrfik via öppna p
 - Automatiserade installationer av apache server
 - https://github.com/diypa571/silviastack
 
-Diyar parwa
-diyar@synlex.se
+- Behöver bli bättre på LDAP.
+  
 
 
 
