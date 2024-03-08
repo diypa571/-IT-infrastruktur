@@ -12,7 +12,7 @@ En publika IP-adress för extern åtkomst till tjänster.
 2- Operativsystem
 Kommer att använda Linux baserade datorer, ubuntu, debian eller mint
 
-3- Router och Brandvägg
+3- Sårbarheter i IT-infrastruktur, Router och Brandvägg
 Vill använda säkra brandväggar med avancerade säkerhetsfunktioner (NGFW - Next Generation Firewalls).
 Tänker på att använda nftables
 https://medium.com/@diyar.parwana/nftables-for-uslinux-administrators-a-simple-guide-d13c5f0cf40f
@@ -32,7 +32,7 @@ Implementering av  RAID-konfigurationer för redundans Säkerhetskopiering...
 8- Applikationsnivå
 load balancers, proxy server, nginx, apache, egna tidigare bash skripter
 
-9- Övervakning och Underhåll
+9- Övervakning och förvaltning
 Skriva bash skripter för att automatiskt bevaka kommande datatrfik via öppna portar.
 
 Diyar parwa
