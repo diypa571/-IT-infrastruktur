@@ -4,7 +4,9 @@ Jag planerar att bygga en IT-infrastruktur för ett företag med anläggningar i
 Infrastrukturen ska inkludera olika webbservrar på olika virtuella maskiner och jag kommer att prioritera säkerhet och tar inte hänsyn till företagets ekonomi.
 
 
-En komponentlista 
+En komponentlista...
+
+
 
 1- En publik IP
 En publika IP-adress för extern åtkomst till tjänster.
