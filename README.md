@@ -35,6 +35,7 @@ load balancers, proxy server, nginx, apache, egna tidigare bash skripter
 9- Övervakning och Underhåll
 Skriva bash skripter för att automatiskt bevaka kommande datatrfik via öppna portar.
 
-diypa571
+Diyar parwa
+diyar@synlex.se
 
 
