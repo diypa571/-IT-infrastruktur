@@ -35,7 +35,14 @@ load balancers, proxy server, nginx, apache, egna tidigare bash skripter
 9- Övervakning och förvaltning
 Skriva bash skripter för att automatiskt bevaka kommande datatrfik via öppna portar.
 
+
+
+- Automatiserade installationer av apache server
+- https://github.com/diypa571/silviastack
+
 Diyar parwa
 diyar@synlex.se
+
+
 
 
